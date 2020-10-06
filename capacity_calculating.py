@@ -17,6 +17,3 @@ def capacity_calculating(img):
             maxp = i
     #得到容量
     capacity = frequency[maxp]
-
-def capacity_softing(img):
-    #容量排序
